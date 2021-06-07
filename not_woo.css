@@ -1,0 +1,42 @@
+/* not_woo plugin admin css */
+
+#not_woo-form .form-block {
+	margin-top: 5px;
+}
+
+#not_woo-form .form-block-ns {
+	margin-top: 1px;
+}
+
+#not_woo-form input[type=text] {
+	width: 218px;
+}
+
+#not_woo-form label {
+	display: inline-block;
+	width: 120px;
+	padding-left: 10px;
+}
+
+#not_woo-form label.top {
+	padding-top: 4px;
+	vertical-align: top;
+}
+
+#not_woo-form select {
+	width: 218px;
+}
+
+#not_woo-form textarea {
+	width: 350px;
+	height: 200px;
+}
+
+#not_woo-form .choose-colour-button {
+	position: relative;
+	height: 30px;
+	top: 4px;
+	margin: 0;
+}
+
+/* EOF */
